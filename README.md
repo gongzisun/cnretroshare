@@ -5,9 +5,9 @@ retroshare简易教程
 
 
 
-说明文档.txt              1-12步的说明
+说明文档.txt                   1-12步的说明
 
-帮助.txt                  常见问题
+帮助.txt                       常见问题
 
 retroshare说明文件.png    整体图片说明
 
