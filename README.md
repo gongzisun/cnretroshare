@@ -1,7 +1,7 @@
 # cnretroshare
-官网
+官网下载
 http://retroshare.net/downloads.html
-官方仓库
+官方仓库下载
 https://github.com/RetroShare/RetroShare/releases
 
 retroshare简易教程
