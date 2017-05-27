@@ -30,8 +30,8 @@ https://raw.githubusercontent.com/gongzisun/cnretroshare/master/%E8%AF%B4%E6%98%
 https://raw.githubusercontent.com/gongzisun/cnretroshare/master/%E5%B8%AE%E5%8A%A9.txt
 
 
-快速添加好友的方法——————addfriends.jpg
+addfriends.jpg——————快速添加好友的方法
 https://raw.githubusercontent.com/gongzisun/cnretroshare/master/addfriends.jpg
 
-现在连接比较多的节点（好友列表）——————x.xml（下载需要右键另存为）
+x.xml——————现在连接比较多的节点（好友列表）（下载需要右键另存为）
 https://raw.githubusercontent.com/gongzisun/cnretroshare/master/x.xml
