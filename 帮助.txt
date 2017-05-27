@@ -15,7 +15,8 @@
 
 
 3、备份
-    portable（便携版）目录下的Data文件夹，安装版在各系统的数据文件夹里边（各系统目录不同），如果不想备份整个目录，
+
+portable（便携版）目录下的Data文件夹，安装版在各系统的数据文件夹里边（各系统目录不同），如果不想备份整个目录，
 3.1、preferences-节点-保存证书到文件导出
 3.2、preferences-节点-新建节点-Export selected key 导出
 3.3、网络-左边好友列表右键-export friendlist  这是导出好友列表，以后恢复，网络-左边好友列表右键-import friendlist，选择导出的文件导入好友列表
