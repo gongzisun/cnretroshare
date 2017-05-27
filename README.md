@@ -4,6 +4,8 @@ http://retroshare.net/downloads.html
 官方仓库下载
 https://github.com/RetroShare/RetroShare/releases
 
+建议在仓库下载便携版，解压即用，而且方便保存自己的数据（因为没有服务器，用户档案，好友列表存储在本地）
+
 retroshare简易教程
 
 
