@@ -22,10 +22,11 @@ https://raw.githubusercontent.com/gongzisun/cnretroshare/master/retroshare%E8%AF
 
 
 
+
 说明文档.txt——————1-12简介
 https://raw.githubusercontent.com/gongzisun/cnretroshare/master/%E8%AF%B4%E6%98%8E%E6%96%87%E6%A1%A3.txt
 
-帮助.txt——————常见问题
+帮助.txt——————FAQ常见问题
 https://raw.githubusercontent.com/gongzisun/cnretroshare/master/%E5%B8%AE%E5%8A%A9.txt
 
 
