@@ -8,7 +8,7 @@ https://github.com/RetroShare/RetroShare/releases
 
 1-13.jpg——————教程
 
-打包下载
+教程打包下载
 https://github.com/gongzisun/cnretroshare/archive/master.zip
 
 说明文档.txt——————1-13教程操作说明
