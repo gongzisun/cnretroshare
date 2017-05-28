@@ -16,14 +16,8 @@ https://github.com/gongzisun/cnretroshare/archive/master.zip
 说明文档.txt——————1-13教程操作说明
 
 
-
 帮助.txt——————FAQ常见问题
 
 
-
-13.jpg——————快速添加好友的方法
-
-
-
-x.xml——————现在连接比较多的节点（好友列表）（下载需要右键另存为）
+x.xml——————现在连接比较多的节点（好友列表）
 
