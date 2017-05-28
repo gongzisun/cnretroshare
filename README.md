@@ -14,16 +14,15 @@ https://github.com/gongzisun/cnretroshare/archive/master.zip
 
 说明文档.txt——————1-13教程操作说明
 
-https://raw.githubusercontent.com/gongzisun/cnretroshare/master/%E8%AF%B4%E6%98%8E%E6%96%87%E6%A1%A3.txt
+
 
 帮助.txt——————FAQ常见问题
 
-https://raw.githubusercontent.com/gongzisun/cnretroshare/master/%E5%B8%AE%E5%8A%A9.txt
+
 
 13.jpg——————快速添加好友的方法
 
-https://raw.githubusercontent.com/gongzisun/cnretroshare/master/addfriends.jpg
+
 
 x.xml——————现在连接比较多的节点（好友列表）（下载需要右键另存为）
 
-https://raw.githubusercontent.com/gongzisun/cnretroshare/master/x.xml
