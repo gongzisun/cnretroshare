@@ -66,7 +66,7 @@
 
 
 10、备份
-便携版（portable）目录下的Data文件夹（retroshare/Data/LOC*文件夹里面的Downloads、Partials、cache不需要备份，keys必须备份，其他的可以不备份但是建议备份），恢复方式是Data文件夹拷回同样位置。安装版在各系统的数据文件夹里边（各系统目录不同），可以只备份证书跟导出好友列表，以创建同账户下的其他位置节点
+便携版（portable）目录下的Data文件夹（retroshare/Data/LOC*文件夹里面的Downloads、Partials、cache不需要备份，keys必须备份，其他的可以不备份但是建议备份），恢复方式是Data文件夹拷回同样位置。安装版Data目录在各系统的用户数据文件夹里边（各系统目录不同），可以只备份证书跟导出好友列表，以创建同账户下的其他位置节点
 10.1、Preferences-节点-保存证书到文件导出
 10.2、Preferences-节点-新建节点-Export selected key 导出
 10.3、网络-左边好友列表右键-export friendlist  这是导出好友列表，以后恢复，网络-左边好友列表右键-import friendlist，选择导出的文件导入好友列表
