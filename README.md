@@ -24,6 +24,6 @@ https://github.com/gongzisun/cnretroshare/archive/master.zip
 x.xml——————现在连接比较多的节点（好友列表）
 
 
-*.qm——————最新的汉化文件
+qt_zh_CN.qm——————最新的汉化文件
 
-这三个文件放入translations替换，翻译文件原件太老，所以翻译不全
+文件放入translations替换，翻译文件原件太老，所以翻译不全
