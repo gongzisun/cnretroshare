@@ -15,7 +15,7 @@ telegram群：https://t.me/cnretroshare
 
 https://github.com/gongzisun/cnretroshare/archive/master.zip
 
-说明文档.txt——————1-13教程操作说明
+说明文档.txt——————教程文件，图片文件作用的说明
 
 
 帮助.txt——————FAQ常见问题
