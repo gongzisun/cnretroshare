@@ -19,7 +19,7 @@ https://github.com/gongzisun/cnretroshare/archive/master.zip
 
 
 # 帮助.txt——————FAQ常见问题(必读)
-（一直更新，定期重新下载）
+帮助会一直更新，定期重新下载
 
 
 x.xml——————现在连接比较多的节点（好友列表）
