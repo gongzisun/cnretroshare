@@ -50,6 +50,7 @@ incoming service connections设置：
 隧道向导 - 服务端隧道 - 标准 - 名称、描述自己随便写，下一步 - 主机127.0.0.1 、端口41222（可以自定义）- 勾选自动启动，完成。
 
 创建完后找到你的那个名字的隧道，中间那一串（XXXXXXXXXXXXXXXXXX.b32.i2p）填到incoming service connections第二栏addresss里
+incoming service connections第一栏端口填41222
 
 完成
 
