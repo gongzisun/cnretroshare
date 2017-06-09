@@ -14,9 +14,9 @@ Linux、Mac的用户我相信你们能找到相关文件位置的，爱莫能助
 
 tor:
 
-在torrc最后添加下面内容，torrc文件位置 \Tor Browser\Browser\TorBrowser\Data\Tor(torbrowser)，纯二进制版本的你要是不知道torrc文件位置我真不知道你怎么用tor的
+在torrc文件末尾添加下面内容，torrc文件位置 ：\Tor Browser\Browser\TorBrowser\Data\Tor(torbrowser)，二进制版本的:C:\user\username\appdata\roaming\tor
 
-SOCKSPort 9050
+SocksPort 9050
 HiddenServiceDir E:\hidden
 HiddenServicePort 12111 127.0.0.1:32111
 
