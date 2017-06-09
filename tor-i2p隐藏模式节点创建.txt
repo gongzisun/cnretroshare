@@ -2,7 +2,7 @@
 
 首先创建你的节点的时候必须选择隐藏模式，已创建的节点是不能修改模式的
 
-隐藏节点的DHT默认是禁用的，所以不用奇怪为什么是黑的，NAT也不会是绿的。
+隐藏节点的DHT默认是禁用的，所以不用奇怪为什么是黑的，NAT也不会是绿的。outgoing connections、incoming service connections（创建完隐藏服务，这个也需要反应时间的，i2p相对稳定，不会一会绿一会不绿，tor如果你有稳定前置代理应该会稳定点）绿了就是正常的
 
 如果自己端口有冲突的，改了后在相应位置替换就行
 
@@ -24,7 +24,7 @@ hideden是自己的文件夹（文件夹尽量放在除C盘以外的地方，保
 9050是自己定义的传出端口，设置在outgoing connections那里的，我直接选了默认省的你们还要去修改。
 
 重启torbrowser/tor。
-把hidden文件夹里面hostname里的内容（XXXXXXX.onion）填到incoming service connections第二栏addresss里，端口填12111
+把hidden文件夹里面hostname文件里的内容（XXXXXXX.onion）填到incoming service connections第二栏addresss里，端口填12111
 incoming service connections第一栏端口填32111
 
 完成
@@ -36,7 +36,7 @@ i2p:
 
 这个步骤多一点，但是算是简单的了，基本不用编辑什么。
 
-outgoing connections设置：（默认4447是软件自带的，如果下面自己改了，请自己在retroshare内修改端口）
+outgoing connections设置：（默认4447是retroshare软件自带的，如果下面自己改了，请自己在retroshare内修改端口）
 
 后期的版本有自动设置传出连接功能，启用Automatic I2p/BoB，里面勾选Enable I2P BOB，然后在http://127.0.0.1:7657/configclients里面启动BOB协议桥就行了。
 
