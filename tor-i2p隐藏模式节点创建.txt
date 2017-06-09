@@ -17,7 +17,7 @@ tor:
 在torrc最后添加下面内容，torrc文件位置 \Tor Browser\Browser\TorBrowser\Data\Tor(torbrowser)，纯二进制版本的你要是不知道torrc文件位置我真不知道你怎么用tor的
 
 SOCKSPort 9050
-HiddenServiceDir C:\hidden
+HiddenServiceDir E:\hidden
 HiddenServicePort 12111 127.0.0.1:32111
 
 hideden是自己的文件夹（文件夹尽量放在除C盘以外的地方，保证tor有权限），这个文件夹是自己创建的，也可以找一个已有个文件夹，名字（尽量英文，省的出错）可以自己取，端口可以自己任意设置，但是不推荐前后端口用同一个。
