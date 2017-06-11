@@ -105,7 +105,7 @@ DHT调节：
 
 
 
-10、备份、恢复、同一证书创建不同节点
+10、备份、恢复、同一证书创建不同节点（Data/retroshare数据目录下extensions6文件夹别备份进行覆盖，属于程序不属于用户数据）
 
 备份
 便携版（portable）软件目录下的Data文件夹{retroshare/Data/LOC*文件夹里面的Downloads(默认下载文件夹)、Partials（下载未完成的临时文件）、cache不需要备份，keys必须备份，其他的可以不备份但是建议备份（因为是设置文件）}，extensions6（扩展）不用备份。
