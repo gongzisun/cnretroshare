@@ -126,7 +126,7 @@ Data文件夹拷回同样位置。安装版（如果你安装的时候选择了p
 
 win7/10安装版Data目录 = C:\Users\用户名\AppData\Roaming\retroshare
 xp Data目录 = C:\Documents and Settings\<Username>\Application Data\retroshare
-安装版便携版转换，把备份的文件夹改成另一版本的名字替换过去就行了
+安装版便携版转换，把备份的文件夹（retroshare\Data）改成另一版本的名字替换过去就行了
 找不到数据文件夹的就备份密钥、证书跟好友列表就可以了(MAC、Linux同理)
 
 
