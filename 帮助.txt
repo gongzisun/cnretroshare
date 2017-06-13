@@ -108,18 +108,33 @@ DHT调节：
 
 
 
-10、备份、恢复、同一证书创建不同节点（Data/retroshare数据目录下extensions6文件夹别备份进行覆盖，属于程序不属于用户数据）
+10、备份、恢复、同一证书创建不同节点
 
+10.1建议备份方法
+
+10.1.1、便携版（portable）
 备份
-便携版（portable）软件目录下的Data文件夹{retroshare/Data/LOC*文件夹里面的Downloads(默认下载文件夹)、Partials（下载未完成的临时文件）、cache不需要备份，keys必须备份，其他的可以不备份但是建议备份（因为是设置文件）}，extensions6（扩展）不用备份。
+软件目录下的Data文件夹里除extensions6之外全部备份，其中备份的文件夹retroshare/Data/(LOC*/HID*)文件夹里面：
+Downloads(默认下载文件夹)
+Partials（下载未完成的临时文件）
+cache（缓存）不需要备份
+keys（证书）必须备份
+gxs（好友、关注的频道、论坛数据库）可选备份
+其他的可以不备份但是建议备份（因为是设置文件）
 
 恢复
-Data文件夹拷回同样位置。安装版（如果你安装的时候选择了portable那也是属于便携版）Data目录在各系统的用户数据文件夹里边（各系统目录不同），文件夹名字也不一定是Data，记住规则，LOC*这个文件夹的上一级目录就是Data目录
+备份的文件夹拷回原来的路径
 
-也可以只备份密钥、证书跟导出好友列表，这样备份文件小，节省空间
-10.1、Preferences(选项)-节点-保存证书到文件导出（这个用于加好友）
-10.2、Preferences(选项)-节点-新建节点-Export selected key(导出选中的密钥)导出（这个才是最重要的）
-10.3、网络-左边好友列表右键-export friendlist(导出朋友列表)  这是导出好友列表
+10.1.2、安装版
+数据目录为appdata里的retroshare文件夹，相当于便携版的Data文件夹，方法同便携版（如果安装版安装时候选了portable模式，那是还是属于便携版，按便携版找相关文件夹）
+win7/10的retroshare目录=C:\Users\用户名\AppData\Roaming\retroshare
+xp的retroshare目录=C:\Documents_and_Settings\<Username>\Application_Data\retroshare
+
+
+10.2、常规备份方法，只备份密钥、证书跟导出好友列表，这样备份文件小，节省空间
+10.2.1、Preferences(选项)-节点-保存证书到文件导出（这个用于加好友）
+10.2.2、Preferences(选项)-节点-新建节点-Export selected key(导出选中的密钥)导出（这个才是最重要的）
+10.2.3、网络-左边好友列表右键-export friendlist(导出朋友列表)  这是导出好友列表
 恢复，创建用户时，选择Re-use_an_existing_profile（重新使用已存在的用户配置文件），选择密钥-确定，网络-左边好友列表右键-import friendlist(导入朋友列表)，选择导出的文件导入好友列表
 
 这个方式方便用于创建同账户新位置节点（Preferences-常规里先取消自动登录）
@@ -127,9 +142,7 @@ Data文件夹拷回同样位置。安装版（如果你安装的时候选择了p
 
 跨版本备份还是建议用导出方式备份，以防配置文件出错
 
-win7/10安装版Data目录 = C:\Users\用户名\AppData\Roaming\retroshare
-xp Data目录 = C:\Documents and Settings\<Username>\Application Data\retroshare
-安装版便携版转换，把备份的文件夹（retroshare\Data）改成另一版本的名字替换过去就行了
+安装版便携版转换，把备份的文件夹（retroshare\Data）放到另一个版本的相关目录。
 找不到数据文件夹的就备份密钥、证书跟好友列表就可以了(MAC、Linux同理)
 
 
@@ -215,6 +228,6 @@ Preferences(选项)-Files(文件)-默认分块策略，改成随机，有助于�
 
 21、删除多余创建的节点、删除好友
 
-Data目录（10里面有说）里LOC、HIC这种很长一串的文件夹就是你的账户文件夹，登录一下看看文件夹修改时间，能找出哪个文件对应哪个账户，删除相应文件夹就能删除相应账户，登录界面不会再出现。
+删除自己的多余节点：Data目录（10里面有说）里LOC、HIC这种很长一串的文件夹就是你的账户文件夹，登录一下看看文件夹修改时间，能找出哪个文件对应哪个账户，删除相应文件夹就能删除相应账户，登录界面不会再出现。
 
-删除好友是在网络界面，右键相关节点-（deny……）拒绝连接。
+删除好友：在网络界面，右键相关好友-（deny……）拒绝连接。
