@@ -5,7 +5,12 @@ http://retroshare.net/downloads.html
 官方仓库下载
 https://github.com/RetroShare/RetroShare/releases
 
-建议在仓库下载便携版，解压即用，或者安装包选着portable安装模式，即是便携版，方便保存Data目录，就是自己的数据（因为没有服务器，用户档案，好友列表存储在本地）。
+因为很多人用了最新版，官方版本在识别链接时会显示证书错误，所以分享个开发版，连接上人后，可以自己在retroshare频道内升级（4.8/5.9是编译软件的区别，retroshare软件功能一样）
+
+https://www.dropbox.com/s/7sdwshn8yohb1mu/RetroShare-0.6.2-Windows-Portable-20170613-c451d3a1-Qt-5.9.0.7z?dl=0
+https://www.dropbox.com/s/apcfwno506odsbp/RetroShare-0.6.2-Windows-Portable-20170613-c451d3a1-Qt-4.8.7.7z?dl=0
+
+建议下载便携版，解压即用，或者安装包选着portable安装模式，即是便携版，方便备份（因为没有服务器，用户档案，好友列表存储在本地）。
 
 telegram群：https://t.me/cnretroshare
 
