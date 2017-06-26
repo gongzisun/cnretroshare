@@ -14,15 +14,11 @@ https://www.dropbox.com/s/apcfwno506odsbp/RetroShare-0.6.2-Windows-Portable-2017
 
 telegram群：https://t.me/cnretroshare
 
-1-14.jpg——————教程
-
-新人先用  ”稳定接入方式.txt“  的方法连接，然后再用 1-14.jpg 的教程熟悉软件
-
 教程打包下载
 
 https://github.com/gongzisun/cnretroshare/archive/master.zip
 
-说明文档.txt —————— 教程文件，图片文件作用的说明
+教程.txt —————— 教程文件，对应图片文件的说明
 
 
 # 帮助.txt —————— FAQ常见问题(必读)
