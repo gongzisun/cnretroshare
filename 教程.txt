@@ -5,7 +5,8 @@
 
 2、把retroshare://协议关联，这样能直接在浏览器打开相关链接，无法关联请以管理员模式运行
 
-add1.jpg——add2.jpg、新人稳定的添加方式，熟悉过后按后面的步骤进行加人，通过这两个网址添加https://telecomix.retroshare.rocks/key_add.php?lang=en
+add1.jpg——add2.jpg、新人稳定的添加方式，熟悉过后按后面的步骤进行加人，通过这两个网址添加
+https://telecomix.retroshare.rocks/key_add.php?lang=en
 https://retrochat.piratenpartei.at/key_add.php?lang=en
 
 3、直接导入大量好友
