@@ -14,22 +14,24 @@ https://www.dropbox.com/s/apcfwno506odsbp/RetroShare-0.6.2-Windows-Portable-2017
 
 telegram群：https://t.me/cnretroshare
 
-1-13.jpg——————教程
+1-14.jpg——————教程
+
+新人先用 稳定接入方式.txt 的方法连接，然后再用 1-14.jpg 的教程熟悉软件
 
 教程打包下载
 
 https://github.com/gongzisun/cnretroshare/archive/master.zip
 
-说明文档.txt——————教程文件，图片文件作用的说明
+说明文档.txt —————— 教程文件，图片文件作用的说明
 
 
-# 帮助.txt——————FAQ常见问题(必读)
+# 帮助.txt —————— FAQ常见问题(必读)
 帮助会一直更新，定期重新下载
 
 
-x.xml——————现在连接比较多的节点（好友列表）
+x.xml —————— 现在连接比较多的节点（好友列表）
 
 
-qt_zh_CN.qm——————最新的汉化文件
+qt_zh_CN.qm —————— 最新的汉化文件
 
 文件放入translations替换，翻译文件原件太老，所以翻译不全
