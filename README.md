@@ -22,7 +22,8 @@ https://github.com/gongzisun/cnretroshare/archive/master.zip
 
 
 # 帮助.txt —————— FAQ常见问题(必读)
-gongzisun.github.io
+https://gongzisun.github.io
+
 帮助会一直更新，定期重新下载
 
 
