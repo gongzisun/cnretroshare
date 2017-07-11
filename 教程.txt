@@ -4,6 +4,8 @@
 1、
 创建帐户 
 
+内网用户（宽带几乎都是内网，无法确定的请搜索相关方法），先看看这个https://raw.githubusercontent.com/gongzisun/cnretroshare/master/%E5%85%B3%E4%BA%8E%E5%86%85%E7%BD%91%E7%94%A8%E6%88%B7%E7%9A%84%E5%BB%BA%E8%AE%AE.txt
+
 如果进telegram群里了，先按置顶消息操作，然后再学习后面的
 
 2、
