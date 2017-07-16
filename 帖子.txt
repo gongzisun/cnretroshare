@@ -2,8 +2,10 @@
 
 现在eMule几乎没什么人用，迅雷确实能下，但是如果有资源，特别是老资源，要分享还是靠eMule，一直寻求替代品，因为eMule停滞开发了，15的版本甚至不叫更新
 btsync是个好东西，但是这个需要去网站上找链接，不像eMule那样能直接在用户共享文件里边搜索。
-retroshare能完美取代上两个产品
-[size=5]telegram群：[url]https://t.me/cnretroshare[/url]，需要互相添加，请务必加群进行双向添加[/size]
+retroshare能完美取代上两个产品，是两者的结合
+[size=5]telegram群：[url]https://t.me/cnretroshare[/url][/size][size=5]
+[/size][size=5]matrix riot群：[url]https://matrix.to/#/#RetroShareCN:matrix.org[/url][/size]
+需要互相添加，请务必加群进行双向添加
 现在能搜到很多国外的资源，希望大家一起加入，建立不需要任何服务器的中文资源共享平台
 前不久发现retroshare，但是网上几乎找不到社区，就是没中文用户用，然后找了很多P2P分享软件，
 最后还是决定回到retroshare，因为其他的也没有中文资源，既然要从头发展，不如选择这个，因为它：
