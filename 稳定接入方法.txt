@@ -1,7 +1,0 @@
-https://telecomix.retroshare.rocks/key_add.php?lang=en
-
-https://retrochat.piratenpartei.at/key_add.php?lang=en
-
-打开这两个网址，按 add1.jpg——add2.jpg 的步骤进行添加。
-
-以防连接问题，最好两个网址都加上
