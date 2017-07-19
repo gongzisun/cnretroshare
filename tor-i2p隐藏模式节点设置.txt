@@ -43,7 +43,7 @@ i2p:
 
 1、outgoing connections设置：（默认4447是retroshare软件自带的，如果下面自己改了，请自己在retroshare内修改端口）
 
-后期的版本有自动设置传出连接功能，启用Automatic I2p/BoB，里面勾选Enable I2P BOB（retroshare里面），然后在http://127.0.0.1:7657/configclients（浏览器里）里面启动BOB协议桥就行了。会自动在i2p里设置。
+后期的版本有自动设置传出连接功能，启用Automatic I2p/BoB，里面勾选Enable I2P BOB（retroshare里面），然后在http://127.0.0.1:7657/configclients （浏览器里）里面启动BOB协议桥就行了。会自动在i2p里设置。
 
 没有自动启动功能的版本设置方法：（打开i2p，浏览器中设置）
 打开http://127.0.0.1:7657/i2ptunnelmgr
