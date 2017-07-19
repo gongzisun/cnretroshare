@@ -9,8 +9,8 @@ zerotier、N2N这种虚拟局域网的方式，就是给所有接入的网络用
 
 N2N没维护了，都用zerotier吧，统一起来，才能相互连通
 
-http://www.zerotier.com/，下载，安装，打开过后，右键托盘选择Join Network，输入8056c2e21c000001，点击Join，完成。
+http://www.zerotier.com/ ，下载，安装，打开过后，右键托盘选择Join Network，输入8056c2e21c000001，点击Join，完成。
 
-8056c2e21c000001是官方建立的一个群，在https://www.zerotier.com/manual.shtml#2_2_5可以找到，就怕有的人担心什么隐私，我就不另建一个了，所以建议都加这一个吧。
+8056c2e21c000001是官方建立的一个群，在https://www.zerotier.com/manual.shtml#2_2_5 可以找到，就怕有的人担心什么隐私，我就不另建一个了，所以建议都加这一个吧。
 
 zerotier实现的组网，不止对于retroshare有用，对所有的P2P软件都有用，对联机游戏也有用（前提是大家加同一个网络群）
