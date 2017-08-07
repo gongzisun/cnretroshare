@@ -10,17 +10,6 @@
 
 ------------
 
-
-因为很多人用了最新版，官方版本在识别链接时会显示证书错误，所以分享个开发版，连接上人后，可以自己在RetroShare频道内升级（4.8/5.9是开发环境的区别，RetroShare软件的功能是一样的）
-
-- [Qt-5.9.0.7z][3]
-
-- [Qt-4.8.7.7z][4]
-
-------------
-
-
-
 ### 讨论群组
 - [telegram群][5]
 - [matrix riot群][6]
@@ -37,8 +26,6 @@
 
   [1]: http://retroshare.net/downloads.html
   [2]: https://github.com/RetroShare/RetroShare/releases
-  [3]: https://www.dropbox.com/s/7sdwshn8yohb1mu/RetroShare-0.6.2-Windows-Portable-20170613-c451d3a1-Qt-5.9.0.7z?dl=0
-  [4]: https://www.dropbox.com/s/apcfwno506odsbp/RetroShare-0.6.2-Windows-Portable-20170613-c451d3a1-Qt-4.8.7.7z?dl=0
   [5]: https://t.me/cnretroshare
   [6]: https://matrix.to/#/#RetroShareCN:matrix.org
   [7]: https://github.com/gongzisun/cnretroshare/archive/master.zip
