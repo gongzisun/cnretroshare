@@ -43,7 +43,7 @@ i2p:
 
 1、outgoing connections设置：（默认4447是retroshare软件自带的，如果下面自己改了，请自己在retroshare内修改端口）
 
-后期的版本有自动设置传出连接功能，启用Automatic I2p/BoB，里面勾选Enable I2P BOB（retroshare里面），然后在http://127.0.0.1:7657/configclients （浏览器里）里面启动BOB协议桥就行了。会自动在i2p里设置。
+后期的版本有自动设置传出连接功能，启用Automatic I2p/BoB，里面勾选Enable I2P BOB（retroshare里面），然后在http://127.0.0.1:7657/configclients（浏览器里）里面启动BOB协议桥就行了。会自动在i2p里设置。
 
 没有自动启动功能的版本设置方法：（打开i2p，浏览器中设置）
 打开http://127.0.0.1:7657/i2ptunnelmgr
@@ -63,3 +63,11 @@ incoming service connections第一栏端口填41222（retroshare中设置）
 incoming service connections填入后，服务器隧道启动也是需要时间的，耐心等待
 
 
+
+推荐用i2p的C++版本i2pd，地址 https://github.com/PurpleI2P/i2pd/releases
+
+操作方法很简单，在GitHub教程里下载tunnels.conf，跟i2pd.exe放在一起，启动i2pd。
+
+浏览器打开 http://127.0.0.1:7070/?page=i2p_tunnels
+
+界面名字为retroshare-sev后面的xxxxxxx.b32.i2p就是第二栏incoming service connections的地址，44447为第一栏的端口（retroshare中设置）
