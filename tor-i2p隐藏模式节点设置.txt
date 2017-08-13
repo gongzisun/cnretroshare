@@ -37,7 +37,7 @@ incoming service connections第一栏端口填32111（retroshare中设置）
 
 
 
-i2p:
+i2p:（图文教程：https://raw.githubusercontent.com/gongzisun/cnretroshare/master/创建I2P隐藏节点.pdf）
 
 这个步骤多一点，但是算是简单的了，基本不用编辑什么。
 
@@ -66,7 +66,7 @@ incoming service connections填入后，服务器隧道启动也是需要时间�
 
 推荐用i2p的C++版本i2pd，地址 https://github.com/PurpleI2P/i2pd/releases
 
-操作方法很简单，在GitHub教程里下载tunnels.conf，跟i2pd.exe放在一起，启动i2pd。
+操作方法很简单，在GitHub教程里下载i2pd.conf，tunnels.conf，跟i2pd.exe放在一起，启动i2pd。
 
 浏览器打开 http://127.0.0.1:7070/?page=i2p_tunnels
 
