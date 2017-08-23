@@ -30,7 +30,7 @@ hideden是自己的文件夹（文件夹尽量放在除C盘以外的地方，保
 3、把hidden文件夹里面hostname文件里的内容（XXXXXXX.onion）填到incoming service connections第二栏addresss里，端口填12111
 incoming service connections第一栏端口填32111（retroshare中设置）
 
-完成
+完成，重启RetroShare
 
 只要生成了hostname文件，tor能正常运行，那操作就是没有问题的，incoming service connections指示灯变绿需要时间的，耐心等待
 
@@ -55,10 +55,10 @@ i2p:（图文教程：https://raw.githubusercontent.com/gongzisun/cnretroshare/m
 隧道向导 - 服务端隧道 - 标准 - 名称、描述自己随便写，下一步 - 主机127.0.0.1 、端口41222（可以自定义）- 勾选自动启动，完成。
 
 
-3、创建完后，找到你的那个名字的服务器隧道，中间那一串（XXXXXXXXXXXXXXXXXX.b32.i2p）填到incoming service connections第二栏addresss里
+3、创建完后，找到你的那个名字的服务器隧道（需要时间启动，耐心等待），中间那一串（XXXXXXXXXXXXXXXXXX.b32.i2p）填到incoming service connections第二栏addresss里
 incoming service connections第一栏端口填41222（retroshare中设置）
 
-完成
+完成，重启RetroShare
 
 incoming service connections填入后，服务器隧道启动也是需要时间的，耐心等待
 
@@ -71,3 +71,5 @@ incoming service connections填入后，服务器隧道启动也是需要时间�
 浏览器打开 http://127.0.0.1:7070/?page=i2p_tunnels
 
 界面名字为retroshare-sev后面的xxxxxxx.b32.i2p就是第二栏incoming service connections的地址，44447为第一栏的端口（retroshare中设置）
+
+完成，重启RetroShare
