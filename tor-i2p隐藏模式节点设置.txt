@@ -54,12 +54,13 @@ i2p:（图文教程：https://raw.githubusercontent.com/gongzisun/cnretroshare/m
 
 后期的版本有自动设置传出连接功能，启用Automatic I2p/BoB，里面勾选Enable I2P BOB（retroshare里面），然后在http://127.0.0.1:7657/configclients（浏览器里）里面启动BOB协议桥就行了。会自动在i2p里设置。
 
-没有自动启动功能的版本设置方法：（打开i2p，浏览器中设置，0.6.3版本之前才需要，现在的版本按上面这一步操作就行）
+没有自动启动功能的版本设置方法：（打开i2p，浏览器中设置，支持BOB版本之前才需要，现在的版本按上面这一步操作就行）
 打开http://127.0.0.1:7657/i2ptunnelmgr
 隧道向导 - 客户端隧道 - SOCKS 4/4a/5 - 名称、描述自己随便写，下一步 - 出口代理留空 - 端口4447、访问地址127.0.0.1 - 勾选自动启动，完成。
 
 
-2、incoming service connections设置：（打开i2p，浏览器中设置）
+2、incoming service connections设置：（打开i2p，浏览器中设置）支持BOB版本之前才需要，现在的版本启用Automatic I2p/BoB，里面勾选Enable I2P....就行了
+
 打开http://127.0.0.1:7657/i2ptunnelmgr
 隧道向导 - 服务端隧道 - 标准 - 名称、描述自己随便写，下一步 - 主机127.0.0.1 、端口41222（可以自定义）- 勾选自动启动，完成。
 
