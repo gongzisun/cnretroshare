@@ -190,7 +190,7 @@ FAQ[12]:
 ANS[12]:
 Preferences(选项)-节点-show_statistics_window(显示统计窗口)，在DHT页面（DHT）找到一些连通性好的节点，点击后Ctrl+C复制，回到Preferences-中继，勾选使用中继服务器，在中继服务器设置框那里粘贴，点击添加服务器。
 Preferences(选项)-中继，建议勾选Enable_Relay_Connections(启用中继连接)，这有助于帮助整个网络的壮大，其他人可以通过你连接到更多人，人人为我，我为人人，如果自己不愿意开启，想想别人也不开启的情况，共享都是相互的，希望一起大家努力。
-这个设置会让任何可被连接的客户端有中继服务器的作用，相比其他软件自己架设中继服务器所需要的成本，RetroShare的中继服务器会比他们有非常大的数量优势。
+这个设置会让任何可被连接的客户端有中继服务器的作用，相比其他软件自己架设中继服务器所需要的成本，RetroShare的中继服务器会比他们有非常大的数量优势。（这个中继设置只是用于节点直接连接，匿名隧道里默认所有节点都是中继）
 
 
 
@@ -302,4 +302,4 @@ FAQ[23]:
 普通节点怎么连接隐藏节点
 
 ANS[23]:
-开启tor/i2p，然后在网络Preferences(选项)-网络-隐藏服务配置-Outgoing_Manual_Tor/I2P，把tor/i2p的出口代理地址、端口填进去就可以连接隐藏节点了（i2p可以直接Preferences(选项)-网络-隐藏服务配置-Automatic I2P/BOB，勾选Enable I2P BOB......那个选项就行了）。
+开启tor/i2p，然后在网络Preferences(选项)-网络-隐藏服务配置-Outgoing_Manual_Tor/I2P，把tor/i2p的出口代理地址、端口填进去就可以连接隐藏节点了（i2p可以直接Preferences(选项)-网络-隐藏服务配置-Automatic I2P/BOB，勾选Enable I2P BOB......那个选项就行了）。因为要求隧道式socks隧道，所以详情还是看“怎么连接tor-i2p节点.pdf”这个文件吧。
