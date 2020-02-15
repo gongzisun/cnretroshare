@@ -13,6 +13,7 @@
 ### 讨论群组
 - [telegram群][5]
 - [matrix riot群][6]
+hub已停止工作，请自行Google "retroshare chatserver" 加入retroshare.
 
 ------------
 
